@@ -1,0 +1,12 @@
+[run]
+omit =
+    setup.py
+    tests/*
+branch = true
+
+[report]
+omit =
+    setup.py
+    tests/*
+precision = 2
+sort = Cover

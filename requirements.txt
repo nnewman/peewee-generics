@@ -1,0 +1,10 @@
+# Dev Requirements
+coverage==4.5.1
+flask>=1.0.2,<1.1
+flask-classful>=0.14.1,<0.15
+marshmallow>=2.15,<2.16
+peewee>=3.6.4,<3.7
+pytest==3.7.2
+pytest-cov==2.5.1
+pytest-flask==0.10.0
+webargs>=4.0.0,<4.1
